@@ -14,10 +14,6 @@ upgrade the sub modules
 ```
 npm run blockly:upgdade
 ```
-setup blockly sub module
-```
-cd blockly && npm install && cd ..
-```
 build blockly
 ```
 npm run blockly:build
