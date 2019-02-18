@@ -1,14 +1,14 @@
 {
-  "name": "@mobsya/node-blockly",
-  "version": "1.1.3",
-  "description": "Blockly for Node.js and Browser as CommonJS module",
+  "name": "@kids-lab.io/node-blockly",
+  "version": "0.1.0",
+  "description": "Blockly for Node.js and Browser as CommonJS module. Blockly can be upgraded to master branch and built from script.",
   "main": "index.js",
   "directories": {
+    "lib": "lib",
     "test": "test"
   },
   "keywords": [
     "blockly",
-    "thymio",
     "commonjs"
   ],
   "dependencies": {
@@ -30,12 +30,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mobsya/node-blockly"
+    "url": "git+https://github.com/YannCaron/node-blockly.git"
   },
-  "author": "Mobsya <js@mobsya.org>",
-  "license": "ISC",
+  "author": "Yann Caron <cyann74@gmail.com> (http://www.kids-lab.io)",
+  "license": "LGPL-3.0-only",
+  "licenseUrl": "https://www.gnu.org/licenses/lgpl-3.0-standalone.html",
   "bugs": {
-    "url": "https://github.com/mo4islona/node-blockly/issues"
+    "url": "https://github.com/YannCaron/node-blockly/issues"
   },
-  "homepage": "https://github.com/mo4islona/node-blockly"
+  "homepage": "https://github.com/YannCaron/node-blockly"
 }
