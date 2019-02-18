@@ -13,7 +13,6 @@ Blockly.setLocale(require('./lib/i18n/en'))
 
 Blockly.Blocks = Object.assign(Blockly.Blocks, require('./lib/blocks_compressed_browser')(Blockly));
 
-Blockly.AESL = require('./lib/aesl_compressed')(Blockly);
 Blockly.JavaScript = require('./lib/javascript_compressed')(Blockly);
 // Blockly.Dart = require('./lib/dart_compressed')(Blockly);
 // Blockly.PHP = require('./lib/php_compressed')(Blockly);
