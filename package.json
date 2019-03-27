@@ -24,7 +24,7 @@
   },
   "scripts": {
     "blockly:upgrade": "git submodule init && git submodule update --recursive --remote && cd blockly && python build.py && cd .. ",
-    "prepublish": "rm -rf lib && mkdir lib && gulp build",
+    "prepublish": "npm run blockly:upgrade && rm -rf lib && mkdir lib && gulp build",
     "test": "mocha test/*_test.js"
   },
   "repository": {
