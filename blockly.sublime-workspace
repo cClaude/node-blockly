@@ -1,0 +1,241 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"delta",
+				"deltaEntry"
+			],
+			[
+				"freq",
+				"frequency"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/cyann/project/web/node-blockly/blockly/generators/lua/lists.js",
+		"/home/cyann/Desktop/logs-ISup-OPS-07-15052019/SmartAnalysisResult.json",
+		"/home/cyann/Desktop/logs-ISup-OPS-07-15052019/ISup-g-a/SmartSNMPDriver.log_2019-05-10.log",
+		"/home/cyann/Desktop/logs-ISup-OPS-07-15052019/ISup-g-a/SmartSNMPDriver.log_2019-05-11.log",
+		"/home/cyann/Desktop/logs-ISup-OPS-07-15052019/ISup-g-a/2019-05-11.txt",
+		"/home/cyann/Desktop/logs-ISup-OPS-07-15052019/ISup-g-a/SmartSNMPDriver.log_2019-05-12.log",
+		"/home/cyann/Desktop/logs-ISup-OPS-07-15052019/ISup-g-a/2019-05-13.txt",
+		"/home/cyann/Desktop/smartradio.xml",
+		"/opt/apache-activemq-5.15.9/data/activemq.pid",
+		"/opt/apache-activemq-5.15.9/data/audit.log",
+		"/opt/apache-activemq-5.15.9/data/activemq.log",
+		"/opt/apache-activemq-5.15.9/conf/jmx.password",
+		"/opt/apache-activemq-5.15.9/bin/activemq",
+		"/home/cyann/project/java/ISupConfigTools/ISupConverter/scripts/isup/SmartradioConfig.groovy",
+		"/home/cyann/project/java/ISupConfigTools/ISupConverter/scripts/utils/DataPointUtils.groovy",
+		"/home/cyann/project/java/ISupConfigTools/ISupConverter/scripts/isup/SmartradioDpList.groovy",
+		"/home/cyann/project/java/ISupNetIO/nJamsApiDriver/php/njams/api/pluginmanagement/plugins/hwc",
+		"/home/cyann/project/web/game4kids/core/blockly/blocks/actor.js",
+		"/home/cyann/project/web/node-blockly/blockly/core/toolbox.js",
+		"/home/cyann/project/web/node-blockly/package.json",
+		"/home/cyann/project/web/kids-lab.io/game-lab/package.json",
+		"/home/cyann/project/java/ISupNetIO/nJamsApiDriver/src/main/resources/njams.config.xml",
+		"/home/cyann/project/web/kids-lab.io/game-lab/dist/assets/physic/assets.json",
+		"/home/cyann/project/web/kids-lab.io/.git/config",
+		"/home/cyann/project/poc/express-poc/source/stylesheets/index.styl",
+		"/home/cyann/project/java/ISupNetIO/nJamsApiDriver/php/njams/api/metrics/alerts",
+		"/home/cyann/project/java/ISupNetIO/nJamsApiDriver/php/njams/api/pluginmanagement/plugins",
+		"/home/cyann/project/poc/edito/sandbox/index.html",
+		"/home/cyann/project/java/ISupNetIO/nJamsApiDriver/php/njams/api/dataprovider",
+		"/home/cyann/project/poc/express-poc/foo.js",
+		"/home/cyann/project/poc/express-poc/server.js",
+		"/home/cyann/project/poc/express-poc/package.json",
+		"/home/cyann/Downloads/q.xml",
+		"/home/cyann/project/java/ISupNetIO/nJamsApiDriver/php/njams/api/Untitled Document",
+		"/home/cyann/Templates/Untitled Document",
+		"/home/cyann/project/poc/express-poc/source/templates/homepage.jade",
+		"/home/cyann/project/poc/express-poc/source/templates/default.jade",
+		"/home/cyann/project/poc/express/package.json",
+		"/home/cyann/Desktop/align.html",
+		"/home/cyann/Desktop/selector.html",
+		"/home/cyann/selector.html",
+		"/home/cyann/Downloads/layout.html",
+		"/home/cyann/project/web/node-blockly/blockly/blocks/lists.js",
+		"/home/cyann/project/web/node-blockly/blockly/blocks/math.js",
+		"/home/cyann/project/web/node-blockly/blockly/core/mutator.js",
+		"/home/cyann/project/web/node-blockly/blockly/core/comment.js",
+		"/home/cyann/project/web/node-blockly/blockly/core/block_svg.js",
+		"/home/cyann/project/web/node-blockly/blockly/core/icon.js",
+		"/home/cyann/project/web/node-blockly/blockly/generators/javascript/text.js",
+		"/home/cyann/project/web/node-blockly/blockly/core/variables.js",
+		"/home/cyann/project/web/node-blockly/blockly/generators/javascript/variables.js",
+		"/home/cyann/project/web/node-blockly/blockly/generators/javascript/variables_dynamic.js",
+		"/etc/hosts",
+		"/etc/host"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lists_create_with",
+			"\\]",
+			", oid:",
+			" WARN  Driver:39 - SNMP failure: \\[",
+			" WARN  Driver:39 - SNMP failure: [",
+			"filename",
+			"\tip:",
+			"\\]",
+			", oid:",
+			" WARN  Driver:39 - SNMP failure: \\[",
+			" WARN  Driver:39 - SNMP failure: [",
+			"UKN",
+			"SMART",
+			"inputFilename",
+			"getVariablesOfType",
+			"id",
+			"lists_split",
+			"math_on_list",
+			"listVariable"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\\t",
+			"",
+			"\\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

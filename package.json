@@ -1,6 +1,6 @@
 {
   "name": "@kids-lab.io/node-blockly",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Blockly for Node.js and Browser as CommonJS module. Blockly can be upgraded to master branch and built from script.",
   "main": "index.js",
   "directories": {
