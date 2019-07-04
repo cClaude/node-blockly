@@ -6,35 +6,42 @@ Clone the repository
 ```
 git clone https://github.com/YannCaron/node-blockly.git
 ```
-instal npm packages
+
+Install npm packages
 ```
 npm install
 ```
-upgrade the sub modules
+
+Upgrade the sub modules
 ```
-npm run blockly:upgdade
+npm run blockly:upgrade
 ```
-build blockly
+
+Build blockly
 ```
 npm run blockly:build
 ```
-build package
+
+Build package
 ```
 npm run prepublish
 ```
 
 ## Install
+
 ```
 npm i @kids-lab.io/node-blockly
 ```
 
 ## Usage
+
 **Node.js**
 
 All generators
 ```js
 var Blockly = require('@kids-lab.io/node-blockly');
 ```
+
 Or you may use standalone generators to decrease memory usage
 ```js 
 var Blockly = require('@kids-lab.io/node-blockly/lua');
@@ -48,6 +55,7 @@ var Blockly = require('@kids-lab.io/node-blockly/browser');
 ```
 
 ## Example
+
 **Node.js**
 ```js
 var Blockly = require('@kids-lab.io/node-blockly');
